@@ -1,0 +1,9 @@
+.wrapper {
+  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('http://www.asapmob.com/wp-content/uploads/bg-images//awgest_bg.png');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
